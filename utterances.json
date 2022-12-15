@@ -1,3 +1,6 @@
 {
-  "origins": ["https://devy1540.github.io"]
+  "origins": [
+    "https://devy1540.github.io",
+    "http://localhost:*"
+  ]
 }
